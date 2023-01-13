@@ -27,3 +27,15 @@
 백준 2576번</br>
 백준 2747번</br>
 백준 2562번 ✨ arr.index(max(arr))를 이용해 최대값을 가지고 있는 인덱스를 쉽게 구할 수 있음</br> 
+
+<h5>20230112</h5>
+
+백준 10872번</br>
+
+<h5>20230113</h5>
+
+백준 2750번 ✨ list.sort()는 none을 반환, sorted(list)는 새로운 변수 할당 가능</br>
+백준 2587번 ✨ [int(input()) for_in range(n)]코드를 이용해 쉽게 input 가능</br>
+백준 25305번 ✨ list.sort(reverse=True) -> 내림차순으로 정리</br>
+백준 2751번 </br>
+백준 10989번 ❗메모리부족 관련 https://gumumuworld.tistory.com/22 참고 </br>
